@@ -5,6 +5,6 @@ I take a look at how the job satisfaction of software developers differs globall
 
 ## Notable Insights
 ### Earnings by Geographic Region
-![download](https://user-images.githubusercontent.com/37257304/163644407-5059278f-7c84-4ddd-b6f4-371687880252.png)
+![download](https://user-images.githubusercontent.com/37257304/163645816-2589ab67-b587-4a07-9e42-93fbde4773fd.png)
 ### Financial Security by Geographic Region
-![download](https://user-images.githubusercontent.com/37257304/163644651-378dfa31-a29b-4762-9715-bcc8c042c7de.png)
+![download](https://user-images.githubusercontent.com/37257304/163645987-fe21621d-ff7b-4cdc-91ed-a6d03419198f.png)
