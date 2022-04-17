@@ -1,5 +1,5 @@
 # Software Developer Job Satisfaction Worldwide
-An analysis look at how the job satisfaction of software developers differs globally
+An analysis of how the job satisfaction of software developers differs globally
 
 **Source:** 2021 FreeCodeCamp New Developer Survey - https://github.com/freeCodeCamp/2021-new-coder-survey
 
